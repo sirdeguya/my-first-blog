@@ -11,11 +11,16 @@
 }
 
 .content {
-    margin-left: 40px;
+    margin-right: 40px;
+    text-align: right;
+    font-family: 'Alef';
 }
 
-h1, h2, h3, h4 {
+h1 {
     font-family: 'Lobster', cursive;
+}
+h2, h3, h4 {
+    font-family: 'Suez-one', Alef;
 }
 
 .date {
